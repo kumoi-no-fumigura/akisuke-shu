@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 151,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-akisuke-0001",
@@ -2158,7 +2161,7 @@
   "blocks": 151,
   "chars": 3478,
   "poems": 151,
-  "yaku": 0,
+  "yaku": 151,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T21:42:33+09:00"
